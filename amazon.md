@@ -25,7 +25,7 @@
 
 ---
 
-## Slide 3 – Five Key Characteristics of Good E-commerce Websites
+## Slide 3 – The Five Key Characteristics
 
 (According to *WebQual 4.0* and supporting journals)
 
@@ -67,7 +67,7 @@ The value and clarity of information on the website.
 - Supported by customer reviews and photos
 
 **Amazon Example:**  
-- Detailed specs and transparent pricing  
+- Detailed product specs and transparent pricing  
 - Verified customer reviews  
 - **Conclusion:** *Excellent and trustworthy information.*
 
@@ -92,26 +92,41 @@ The quality of user interaction during transactions.
 
 ---
 
-## Slide 7 – Characteristics 4 & 5: Product & Service Quality
+## Slide 7 – Characteristic 4: Product Quality
 
-**Product Quality:**  
-- Honest descriptions and reviews  
-- Wide product range  
-- “A-to-Z Guarantee” ensures reliability  
+**Definition:**  
+Focuses on the quality and reliability of products sold.
 
-**Service Quality (Support):**  
-- Fast, responsive customer service  
-- Easy refund/return process  
-- Reliability, assurance, and empathy shown  
+**Indicators:**  
+- Honest product descriptions  
+- High performance and reliability  
+- Conformance to expectations  
 
 **Amazon Example:**  
-- Quick problem resolution  
-- Friendly and efficient CS  
-- **Conclusion:** *Excellent product and service quality.*
+- Offers a wide variety of reliable products  
+- “A-to-Z Guarantee” ensures authenticity and satisfaction  
+- **Conclusion:** *High product reliability.*
 
 ---
 
-## Slide 8 – Case Study Summary: Amazon.com
+## Slide 8 – Characteristic 5: Service Quality (Support)
+
+**Definition:**  
+Focuses on after-sales services and customer support.
+
+**Indicators:**  
+- Fast, responsive CS  
+- Easy return and refund process  
+- Assurance and empathy toward customers  
+
+**Amazon Example:**  
+- Quick issue handling via chat or call  
+- Simple refund policy  
+- **Conclusion:** *Excellent service support.*
+
+---
+
+## Slide 9 – Case Study Summary: Amazon.com
 
 | Category | Performance |
 |-----------|--------------|
@@ -122,23 +137,23 @@ The quality of user interaction during transactions.
 | Support Service | ★★★★★ |
 
 **Overall:**  
-Amazon integrates **design**, **trust**, and **service** effectively → leading to high **customer satisfaction** and **retention**.
+Amazon integrates **usability**, **trust**, and **service quality** perfectly → leading to **high customer satisfaction and retention**.
 
 ---
 
-## Slide 9 – Conclusion & Closing
+## Slide 10 – Conclusion & Closing
 
 **Is Amazon a Good E-commerce Website?**  
 ✅ *Yes.* Amazon fulfills all five quality criteria.
 
 **Keys to Success:**  
-- User-friendly and secure system  
-- Complete and trusted product info  
-- Personalized recommendations  
+- User-friendly and secure platform  
+- Accurate, complete, and trustworthy information  
+- Personalized shopping experience  
 - Excellent after-sales support  
 
 **Result:**  
-High customer satisfaction → Long-term loyalty.
+High satisfaction → Long-term customer loyalty.  
 
 ---
 
